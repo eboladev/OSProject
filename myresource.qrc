@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/mainframe">
+        <file>images/down.png</file>
+        <file>images/historicalcurve.jpg</file>
+        <file>images/instrumentpanel.jpg</file>
+        <file>images/realtimecurve.jpg</file>
+        <file>images/thermometer.jpg</file>
+        <file>images/up.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/rightpage.png</file>
+        <file>images/leftpage.png</file>
+        <file>images/leftsearch.png</file>
+        <file>images/rightsearch.png</file>
+        <file>images/minmum.png</file>
+        <file>images/maxmum.png</file>
+        <file>images/cursor_drag_arrow.png</file>
+        <file>images/drag.jpg</file>
+        <file>images/configure_menu.png</file>
+        <file>images/message_menu.png</file>
+        <file>images/alarm_menu.png</file>
+        <file>images/older_menu.png</file>
+        <file>images/query_menu.png</file>
+        <file>images/widget_menu.png</file>
+        <file>images/user_menu.jpg</file>
+        <file>images/ip_widgetaction.png</file>
+        <file>images/monitor_widgetaction.png</file>
+        <file>images/terminal_widgetaction.png</file>
+        <file>images/synctime_widgetaction.png</file>
+        <file>images/foreendpush_widgetaction.png</file>
+        <file>images/about_widgetaction.png</file>
+        <file>images/instruct_widgetaction.png</file>
+        <file>images/log_widgetaction.png</file>
+        <file>images/userinfo_widgetaction.png</file>
+        <file>images/devicestate_widgetaction.png</file>
+        <file>images/olderinfo_widgetaction.png</file>
+        <file>images/alarmlog_widgetaction.png</file>
+        <file>images/integalram_widgetaction.png</file>
+        <file>images/monitorpush_widgetaction.png</file>
+    </qresource>
+</RCC>
